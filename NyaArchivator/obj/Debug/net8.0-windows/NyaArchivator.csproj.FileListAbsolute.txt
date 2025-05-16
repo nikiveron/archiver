@@ -1,0 +1,17 @@
+D:\Uni\C#\NyaArchivator\NyaArchivator\bin\Debug\net8.0-windows\NyaArchivator.exe
+D:\Uni\C#\NyaArchivator\NyaArchivator\bin\Debug\net8.0-windows\NyaArchivator.deps.json
+D:\Uni\C#\NyaArchivator\NyaArchivator\bin\Debug\net8.0-windows\NyaArchivator.runtimeconfig.json
+D:\Uni\C#\NyaArchivator\NyaArchivator\bin\Debug\net8.0-windows\NyaArchivator.dll
+D:\Uni\C#\NyaArchivator\NyaArchivator\bin\Debug\net8.0-windows\NyaArchivator.pdb
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\NyaArchivator.Form1.resources
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\NyaArchivator.csproj.GenerateResource.cache
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\NyaArchivator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\NyaArchivator.AssemblyInfoInputs.cache
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\NyaArchivator.AssemblyInfo.cs
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\NyaArchivator.csproj.CoreCompileInputs.cache
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\NyaArchivator.dll
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\refint\NyaArchivator.dll
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\NyaArchivator.pdb
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\NyaArchivator.genruntimeconfig.cache
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\ref\NyaArchivator.dll
+D:\Uni\C#\NyaArchivator\NyaArchivator\obj\Debug\net8.0-windows\NyaArchivator.Properties.Resources.resources
